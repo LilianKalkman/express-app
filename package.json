@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Lilian Kalkman",
   "license": "ISC",
   "dependencies": {
     "boom": "^7.3.0",
+    "express": "^4.17.0",
     "fastify": "^2.3.0",
     "fastify-swagger": "^2.4.0",
     "mongoose": "^5.5.10",
